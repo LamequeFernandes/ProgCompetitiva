@@ -11,6 +11,10 @@ int main () {
 
    for (int i = 0; i < frase.size(); i++){
       if (i < tam - 2) {
+         if ()
+
+
+
          if (frase.at(i) == 'W' && frase.at(i+1) == 'U' && frase.at(i+2) == 'B'){            
             frase.replace(i, 3, " ");
          }      
